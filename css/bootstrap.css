@@ -392,6 +392,7 @@ img {
 
 @media (min-width: 768px) {
     .sub_text {
+        margin-top: 50px;
         margin-left: 0%;
         margin-right: 20%;
     }
@@ -399,6 +400,7 @@ img {
 
 @media (min-width: 768px) {
     .sub23 {
+        margin-top: 50px;
         margin-left: 0%;
         margin-right: 20%;
     }
@@ -406,6 +408,7 @@ img {
 
 @media (min-width: 768px) {
     .sub65 {
+        margin-top: 50px;
         margin-left: 0%;
         margin-right: 20%;
     }
@@ -644,8 +647,8 @@ p {
 @media (min-width: 768px) {
     .lead {
         font-size: 22.5px;
-        margin-left: 0;
-        margin-right: 0;
+        margin-left: 0%;
+        margin-right: 0%;
     }
 }
 
