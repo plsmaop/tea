@@ -392,19 +392,19 @@ img {
 
 @media (min-width: 768px) {
     .sub_text {
-        margin-left: 0;
+        margin-left: 0%;
     }
 }
 
 @media (min-width: 768px) {
     .sub23 {
-        margin-left: 0;
+        margin-left: 0%;
     }
 }
 
 @media (min-width: 768px) {
     .sub65 {
-        margin-left: 0;
+        margin-left: 0%;
     }
 }
 
