@@ -369,35 +369,39 @@ img {
     height: auto;
 }
 
-.sub {
+.sub_text {
+    margin-left: 20%;
+    text-align: center;
     margin-top: 50px;
     display: inline-block;
-    margin-left: 20%;
 }
 
 .sub23 {
+    margin-left: 20%;
+    text-align: center;
     margin-top: 170px;
     display: inline-block;
-    margin-left: 20%;
 }
 
 .sub59 {
+    margin-left: 20%;
+    text-align: center;
     margin-top: 150px;
     display: inline-block;
-    margin-left: 20%;
 }
 
 .sub65 {
+    margin-left: 20%;
+    text-align: center;
     margin-top: 30px;
     display: inline-block;
-    margin-left: 20%;
 }
 
 .st {
     text-align: center;
 }
 
-.y09 {
+.y {
     display: inline-block;
     max-width: 100%;
     height: 315px;
