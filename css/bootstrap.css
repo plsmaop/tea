@@ -370,24 +370,24 @@ img {
 }
 
 .sub_text {
-    margin-left: 5%;
-    margin-right: 0%;
+    margin-left: 0;
+    margin-right: 0;
     text-align: center;
     margin-top: 30px;
     display: inline-block;
 }
 
 .sub23 {
-    margin-left: 10%;
-    margin-right: 0%;
+    margin-left: 0;
+    margin-right: 0;
     text-align: center;
     margin-top: 30px;
     display: inline-block;
 }
 
 .sub65 {
-    margin-left: 10%;
-    margin-right: 0%;
+    margin-left: 0;
+    margin-right: 0;
     text-align: center;
     margin-top: 30px;
     display: inline-block;
