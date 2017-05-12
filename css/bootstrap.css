@@ -437,6 +437,24 @@ img {
     text-align: center;
 }
 
+.outer {
+    text-align: center;
+}
+
+.subst {
+    text-align: center;
+}
+
+.substl {
+    float: left;
+    display: inline-block;
+}
+
+substr {
+    margin-right: 0;
+    display: block;
+}
+
 .y {
     display: inline-block;
     max-width: 100%;
