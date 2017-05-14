@@ -404,32 +404,24 @@ img {
 @media (min-width: 768px) {
     .sub_text {
         margin-top: 5%;
-        margin-left: 5%;
-        margin-right: 0%;
     }
 }
 
 @media (min-width: 768px) {
     .sub23 {
         margin-top: 10%;
-        margin-left: 20%;
-        margin-right: 0%;
     }
 }
 
 @media (min-width: 768px) {
     .sub33 {
         margin-top: 5%;
-        margin-left: 5%;
-        margin-right: 0%;
     }
 }
 
 @media (min-width: 768px) {
     .sub65 {
         margin-top: 5%;
-        margin-left: 20%;
-        margin-right: 0%;
     }
 }
 
